@@ -1,0 +1,1 @@
+# nuxt-firebase-ssr-template
